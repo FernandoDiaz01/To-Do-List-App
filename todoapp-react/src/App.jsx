@@ -17,6 +17,10 @@ function App() {
 
 	return (
 		<>
+		<div className="container-title-to-do-app">
+
+		<h1 className='title-to-do-app'>To Do App</h1>
+		</div>
 			<div className='card-to-do'>
 				<h1>Lista de tareas</h1>
 				<div className='counter-todos'>
